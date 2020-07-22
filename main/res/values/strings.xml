@@ -1,0 +1,65 @@
+<resources>
+
+    <string name="app_name">recupam</string>
+    <string name="rdbflash">Flash</string>
+    <string name="rdbbat">Batman</string>
+    <string name="rdbaqm">Aquaman</string>
+    <string name="rdbsh">Super Homem</string>
+    <string name="btn1">Ver</string>
+    <string name="txt1">Escolha uma opção</string>
+
+    <string name="txtf">Codinome</string>
+    <string name="txtf1">Flash</string>
+    <string name="txtf2">Nome</string>
+    <string name="txtf3">Barry Allen</string>
+    <string name="txtf4">Habilidades</string>
+    <string name="txtf5">Super Velocidade</string>
+    <string name="txtf6">Vulnerabilidades</string>
+    <string name="txtf7">As mesmas de um humano qualquer</string>
+    <string name="txtf8">Equipamentos</string>
+    <string name="txtf9">Nenhum</string>
+    <string name="txtf10">Especie</string>
+    <string name="txtf11">Humano</string>
+
+    <string name="txtbat">Codinome</string>
+    <string name="txtbat1">Batman</string>
+    <string name="txtbat2">Nome</string>
+    <string name="txtbat3">Bruce Wayne</string>
+    <string name="txtbat4">Habilidades</string>
+    <string name="txtbat5">Planar</string>
+    <string name="txtbat6">Vulnerabilidade</string>
+    <string name="txtbat7">As mesmas de um humano qualquer</string>
+    <string name="txtbat8">Equipamento</string>
+    <string name="txtbat9">Cinto de utilidades</string>
+    <string name="txtbat10">Especie</string>
+    <string name="txtbat11">Humano</string>
+
+    <string name="txtaq">Codinome</string>
+    <string name="txtaq1">Aquaman</string>
+    <string name="txtaq2">Nome</string>
+    <string name="txtaq3">Arthur Curry</string>
+    <string name="txtaq4">Habilidades</string>
+    <string name="txtaq5">Respiração subaquatica, falar com animais</string>
+    <string name="txtaq6">Vulnerabilidade</string>
+    <string name="txtaq7">Ficar muito tempo fora da água</string>
+    <string name="txtaq8">Equipamento</string>
+    <string name="txtaq9">Tridente</string>
+    <string name="txtaq10">Especie</string>
+    <string name="txtaq11">Humano</string>
+
+    <string name="txtsh">Codinome</string>
+    <string name="txtsh1">Super Homem</string>
+    <string name="txtsh2">Nome</string>
+    <string name="txtsh3">Clark Kent</string>
+    <string name="txtsh4">Habilidades</string>
+    <string name="txtsh5">Super força, visão de calor, voo</string>
+    <string name="txtsh6">Vulnerabilidade</string>
+    <string name="txtsh7">Kriptonita</string>
+    <string name="txtsh8">Equipamento</string>
+    <string name="txtsh9">Nenhum</string>
+    <string name="txtsh10">Especie</string>
+    <string name="txtsh11">Humano</string>
+
+    <string name="btnsite">Visualizar</string>
+
+</resources>
